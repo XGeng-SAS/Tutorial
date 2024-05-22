@@ -1,0 +1,15 @@
+\documentclass{article}
+
+\author{Xin Geng}
+\date{May 21, 2024}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+\maketitle
+\tableofcontents
+
+\section{First Section}
+
+
+
+\end{document}
